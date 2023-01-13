@@ -211,7 +211,7 @@ body {
     font-size: 15px;
 }
 
-@media (max-width: 100px) {
+@media (max-width: 1000px) {
 
     .header {
         height: 70vh;
